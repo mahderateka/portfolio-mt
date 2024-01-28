@@ -1,93 +1,60 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: "Mahder Teka"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
-highlight_name: true
+  - course: Master of Science, Bioinformatics and Computational Biology
+    institution: George Mason University
+    year: 2016
+  - course: Bachelor of Science, Biochemistry
+    institution: Temple University
+    year: 2014
+email: mahderateka@gmail.com
+highlight_name: no
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
-skills:
-- items:
-  - description: ""
-    icon: python
-    icon_pack: fab
-    name: Python
-    percent: 80
-  - description: ""
-    icon: chart-line
-    icon_pack: fas
-    name: Data Science
-    percent: 100
-  - description: ""
-    icon: database
-    icon_pack: fas
-    name: SQL
-    percent: 40
-  name: Technical
-- color: '#eeac02'
-  color_border: '#f0bf23'
-  items:
-  - description: ""
-    icon: person-hiking
-    icon_pack: fas
-    name: Hiking
-    percent: 60
-  - description: ""
-    icon: cat
-    icon_pack: fas
-    name: Cats
-    percent: 100
-  - description: ""
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
-    percent: 80
-  name: Hobbies
+- Public Health
+- Real-world Evidence (RWE)
+- Analytics
+- Precision Medicine 
+- Healthcare disparities 
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:mahderateka@gmail.com
 - display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    header: yes
+  # icon: twitter
+  # icon_pack: fab
+  # label: Find me on Twitter
+  # link: https://twitter.com/shilaan01
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=N0O8CR8AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mahderateka
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/mteka/
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/shilaan01/ 
+# Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
-status:
-  icon: ☕️
-superuser: true
-title: 吳健雄
+  link: cv/alzahawi.pdf
+superuser: yes
+bio: My passion lies at the intersection of data and healthcare, with the ultimate career goal of leveraging data to promote healthcare access for all.
+greeting: mahder::teka()
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+With over 7 years of experience in data analytics, I bring a unique blend of expertise and passion to the field. My professional journey began as a Bioinformatician at the CDC, where I dedicated my initial years to Next Generation Sequencing (NGS) Data analytics across diverse domains such as virology, oncology, respiratory, and neurology.
+My proficiency extends to leveraging data from Electronic Health Records (EHR), claims, and NGS, reflecting my adaptability and versatility in handling various datasets. I've had the privilege of contributing to different divisions within a government agency, the CDC, as well as thriving in the dynamic environment of startup ventures in the private sector.
+One of my favorite things about analytics is storytelling. I take pride in infusing narratives into my analyses, making complex information accessible and engaging. This storytelling approach is more than a professional skill; it's a reflection of my personality and genuine passion for the work I do.
+Beyond the analytical realm, I am deeply driven by a passion for problem-solving and leveraging technology to address healthcare disparities. Growing up in a third world country has peaked my interest in understanding and challenging these disparities, with a particular focus on improving healthcare access and patient outcomes.
+Outside of work, I enjoy traveling, spending time  with my wonderful husband and dog, and hosting my family and friends. 
+
+
+<center> 
+
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+</center> 
