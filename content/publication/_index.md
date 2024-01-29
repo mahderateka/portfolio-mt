@@ -1,5 +1,5 @@
 ---
-active: false
+share: false
 banner:
   caption: ""
   image: ""
